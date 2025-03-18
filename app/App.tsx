@@ -24,6 +24,7 @@ import { handleImageUpload } from "@/lib/shapes";
 import { defaultNavElement } from "@/constants";
 import { ActiveElement, Attributes } from "@/types/type";
 
+
 const Home = () => {
   /**
    * useUndo and useRedo are hooks provided by Liveblocks that allow you to
